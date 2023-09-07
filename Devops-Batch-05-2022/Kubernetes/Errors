@@ -1,0 +1,8 @@
+Cluster creation got failed due to one availability zone is not supported us-east-1d
+
+--> Add supported availability zones for cluster creation command 
+eksctl create cluster \
+--name example \
+--version 1.16 \
+--region us-east-1 \
+--zones us-east-1a,us-east-1b,us-east-1c
