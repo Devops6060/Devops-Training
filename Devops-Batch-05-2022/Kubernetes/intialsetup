@@ -1,3 +1,7 @@
+
+https://github.com/stacksimplify/aws-eks-kubernetes-masterclass/tree/master/01-EKS-Create-Cluster-using-eksctl/01-02-Create-EKSCluster-and-NodeGroups
+
+
 ######## Setting up AWS CLI  ###########
 
 aws-cli/2.13.16 Python/3.11.5 Linux/5.19.0-1025-aws exe/x86_64.ubuntu.22 prompt/off
